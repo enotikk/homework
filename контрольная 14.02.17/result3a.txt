@@ -1,0 +1,1066 @@
+hæstv, nken-s, Hæstv
+
+forseti, nken, forseti
+
+ég, fp1en, Ég
+
+taka, sfg1en, tek
+
+upp, aa, upp
+
+þráður, nkeog, þráðinn
+
+þar, aa, þar
+
+sem, c, sem
+
+frá, aa, frá
+
+vera, sfg3eþ, var
+
+hverfa, sþghen, horfið
+
+í, ao, í
+
+morgunn, nkeo, morgun
+
+í, aþ, í
+
+umfjöllun, nveþ, umfjöllun
+
+um, aa, um
+
+framvegis, aa, frv.
+
+til, ae, til
+
+lag, nhfe, laga
+
+um, ao, um
+
+tímabundinn, lvfosf, tímabundnar
+
+ráðning, nvee, ráðningar
+
+starfsmaður, nkfe, starfsmanna
+
+í, aþ, Í
+
+sá, faheþ, því
+
+skyn, nheþ, skyni
+
+að, cn, að
+
+koma, sng, koma
+
+í, ao, í
+
+vegur, nkeo, veg
+
+fyrir, ao, fyrir
+
+að, c, að
+
+tímabundinn, lvfnsf, tímabundnar
+
+ráðning, nvee, ráðningar
+
+verða, svg3en, verði
+
+misnota, sþgvfn, misnotaðar
+
+þannig, aa, þannig
+
+að, c, að
+
+hver, foken, hver
+
+tímabundinn, lkensf, tímabundinn
+
+ráðningarsamningur, nken, ráðningarsamningur
+
+tak, nheþ, taki
+
+við, aa, við
+
+af, aþ, af
+
+annar, fokfþ, öðrum
+
+vera, sfg3en, er
+
+mæla, sþghen, mælt
+
+fyrir, aa, fyrir
+
+um, ao, um
+
+þrennur, lkeesf, þrenns
+
+konar, nkee, konar
+
+leiða, sfg3en, leiðir
+
+sem, ct, sem
+
+stjórnvald, nhfn, stjórnvöld
+
+geta, sfg3fn, geta
+
+velja, ssg, valið
+
+um, aa, um
+
+í, aþ, í
+
+samráð, nheþ, samráði
+
+við, ao, við
+
+aðili, nkfo, aðila
+
+vinnumarkaður, nkeeg, vinnumarkaðarins
+
+samtök, nhfn, Samtök
+
+aðili, nkfe, aðila
+
+vinnumarkaður, nkeeg, vinnumarkaðarins
+
+geta, sfg3fþ, gátu
+
+ekki, aa, ekki
+
+koma, ssg, komið
+
+sig, fpkfþ, sér
+
+saman, aa, saman
+
+um, ao, um
+
+útfærsla, nveo, útfærslu
+
+á, aþ, á
+
+þessi, faheþ, þessu
+
+ákvæði, nhfo, ákvæði
+
+og, c, og
+
+vera, sfg3en, er
+
+því, aa, því
+
+leggja, sþghen, lagt
+
+til, ae, til
+
+að, c, að
+
+taka, sþgven, tekin
+
+verða, svg3en, verði
+
+upp, aa, upp
+
+regla, nven, regla
+
+gildandi, lhfeof, gildandi
+
+starfsmannalag, nhfe, starfsmannalaga
+
+um, ao, um
+
+takmörkun, nvfo, takmarkanir
+
+á, aþ, á
+
+tímabundinn, lkfþsf, tímabundnum
+
+ráðningarsamningur, nkfþ, ráðningarsamningum
+
+vera, sfg3en, Er
+
+það, fpheþ, því
+
+gera, sþghen, gert
+
+ráð, nhen, ráð
+
+fyrir, ao, fyrir
+
+að, c, að
+
+tímabundinn, lkensf, tímabundinn
+
+ráðningarsamningur, nken, ráðningarsamningur
+
+vari, nken, vari
+
+ekki, aa, ekki
+
+samfellt, aa, samfellt
+
+lengi, aam, lengur
+
+en, c, en
+
+tveir, tfhfo, tvö
+
+ár, nhfo, ár
+
+að, aþ, að
+
+það, fpheþ, því
+
+undanskilinn, lheþsf, undanskildu
+
+að, c, að
+
+annar, fohen, annað
+
+vera, svg3en, sé
+
+taka, sþghen, tekið
+
+fram, aa, fram
+
+í, aþ, í
+
+lag, nhfþ, lögum
+
+til, ae, Til
+
+viðbót, nvee, viðbótar
+
+vera, sfg3en, er
+
+þó, aa, þó
+
+leggja, sþghen, lagt
+
+til, ae, til
+
+að, c, að
+
+heimill, lhensf, heimilt
+
+verða, svg3en, verði
+
+að, cn, að
+
+endurnýja, sng, endurnýja
+
+tímabundnur, lkfosf, tímabundna
+
+ráðningarsamningur, nkfo, ráðningarsamninga
+
+embættismaður, nkfe, embættismanna
+
+og, c, og
+
+stjórnandi, nkfe, stjórnenda
+
+sem, ct, sem
+
+gera, sþgkfn, gerðir
+
+vera, sfg3fn, eru
+
+til, ae, til
+
+fjórir, tfhfe, fjögurra
+
+ár, nhfe, ára
+
+eða, c, eða
+
+langur, lkeovm, lengri
+
+tími, nkeþ, tíma
+
+í, aþ, í
+
+sá, fahfþ, þeim
+
+tilvik, nhfþ, tilvikum
+
+þegar, c, þegar
+
+hann, fpkfn, þeir
+
+vera, sfg3fn, eru
+
+endurnýja, sþgkfn, endurnýjaðir
+
+til, ae, til
+
+jafnlangur, lkeesf, jafnlangs
+
+tími, nkee, tíma
+
+þar, aa, Þar
+
+vera, sfg3en, er
+
+sérstaklega, aa, sérstaklega
+
+vísa, sþghen, vísað
+
+til, ae, til
+
+starfsmannalag, nhfe, starfsmannalaga
+
+en, c, en
+
+þar, aa, þar
+
+vera, sfg3en, er
+
+kveða, sþghen, kveðið
+
+á, aa, á
+
+um, ao, um
+
+tímabundinn, lvfosf, tímabundnar
+
+ráðning, nvee, ráðningar
+
+embættismaður, nkfe, embættismanna
+
+til, ae, til
+
+fimm, tfhfe, fimm
+
+ár, nhfe, ára
+
+í, aa, í
+
+senn, aa, senn
+
+eins, nken-s, Eins
+
+og, c, og
+
+vel, aa, vel
+
+vera, sfg3en, er
+
+þekkja, sþghen, þekkt
+
+þá, aa, þá
+
+vera, sfg3en, er
+
+algengur, lhensf, algengt
+
+að, c, að
+
+slíkur, fbkfn, slíkir
+
+ráðningarsamningur, nkfn, ráðningarsamningar
+
+vera, svg3fn, séu
+
+endurnýjaður, lkfnsf, endurnýjaðir
+
+til, ae, til
+
+jafnlangur, lkeesf, jafnlangs
+
+tími, nkee, tíma
+
+samur, fbhen, Sama
+
+fyrirkomulag, nhen, fyrirkomulag
+
+viðganga, sfm3en, viðgengst
+
+enn, aa, enn
+
+fremur, aam, fremur
+
+hjá, aþ, hjá
+
+einstakur, lhfþsf, einstökum
+
+sveitarfélag, nhfþ, sveitarfélögum
+
+að, aþ, að
+
+það, fpheþ, því
+
+er, ct, er
+
+varða, sfg3en, varðar
+
+stjórnendur, nken, stjórnendur
+
+það, fphfe, þeirra
+
+lögð, nken-s, Lögð
+
+vera, sfg3en, er
+
+ríkur, lvensf, rík
+
+áhersla, nven, áhersla
+
+á, ao, á
+
+að, c, að
+
+samtök, nhfn, samtök
+
+aðili, nkfe, aðila
+
+vinnumarkaður, nkeeg, vinnumarkaðarins
+
+hafa, svg3fn, hafi
+
+heimild, nveo, heimild
+
+til, ae, til
+
+að, cn, að
+
+semja, sng, semja
+
+um, ao, um
+
+annar, foveo, aðra
+
+skipan, nveo, skipan
+
+en, c, en
+
+sá, fakfo, þá
+
+sem, ct, sem
+
+mæla, sþghen, mælt
+
+vera, sfg3en, er
+
+fyrir, aa, fyrir
+
+um, aa, um
+
+í, aþ, í
+
+framvegis, aa, frv.
+
+þessi, faheþ, þessu
+
+ákvæði, nhfn, Ákvæði
+
+slíkur, fbkfe, slíkra
+
+kjarasamningur, nkfe, kjarasamninga
+
+verða, sfg3fn, verða
+
+þó, aa, þó
+
+að, cn, að
+
+rúma, snm, rúmast
+
+innan, ae, innan
+
+rammasamningur, nkee, rammasamnings
+
+sá, fahee, þess
+
+sem, ct, sem
+
+hér, aa, hér
+
+um, ao, um
+
+ræða, sfg3en, ræðir
+
+virðulegur, lkenvf, Virðulegi
+
+forseti, nken, forseti
+
+rammasamningur, nkengs, Rammasamningurinn
+
+leggja, sfg3en, leggur
+
+sá, favfo, þær
+
+skylda, nvfo, skyldur
+
+á, aþ, á
+
+vinnuveitandi, nkfn, vinnuveitendur
+
+að, cn, að
+
+upplýsa, sng, upplýsa
+
+sá, fakfo, þá
+
+starfsmaður, nkfo, starfsmenn
+
+sinn, fekfo, sína
+
+sem, ct, sem
+
+ráða, sþgkfn, ráðnir
+
+vera, sfg3fn, eru
+
+tímabundinn, lhensf, tímabundið
+
+um, ao, um
+
+laus, lvfosf, lausar
+
+staða, nvfo, stöður
+
+innan, ae, innan
+
+fyrirtæki, nheeg, fyrirtækisins
+
+erfiður, lhensf, Erfitt
+
+vera, sfg3en, er
+
+að, cn, að
+
+meta, sng, meta
+
+áhrif, nhfo, áhrif
+
+frumvarp, nhee, frumvarps
+
+þessi, faveo, þessa
+
+á, ao, á
+
+íslenskur, lkeosf, íslenskan
+
+vinnumarkaður, nkeo, vinnumarkað
+
+það, fphen, Það
+
+liggja, sfg3en, liggur
+
+fyrir, ao, fyrir
+
+að, c, að
+
+fár, lvfnsf, fáar
+
+regla, nvfn, reglur
+
+hafa, sng, hafa
+
+gilda, ssg, gilt
+
+um, ao, um
+
+tímabundnur, lkfosf, tímabundna
+
+ráðningarsamningur, nkfo, ráðningarsamninga
+
+hér, aa, hér
+
+á, aþ, á
+
+land, nheþ, landi
+
+og, c, og
+
+þá, aa, þá
+
+aðallega, aa, aðallega
+
+á, aþ, á
+
+hinn, gkeþ, hinum
+
+opinber, lkeþvf, opinbera
+
+vinnumarkaður, nkeþ, vinnumarkaði
+
+þá, aa, Þá
+
+virða, sfm3en, virðist
+
+sem, c, sem
+
+ágreiningur, nken, ágreiningur
+
+um, ao, um
+
+ætlaður, lveosf, ætlaða
+
+misnotkun, nveo, misnotkun
+
+á, aþ, á
+
+tímabundinn, lhfþsf, tímabundnum
+
+ráðningarsamningur, nkfþ, ráðningarsamningum
+
+hafa, svg3en, hafi
+
+ekki, aa, ekki
+
+oft, aa, oft
+
+koma, ssg, komið
+
+til, ae, til
+
+kast, nhfe, kasta
+
+íslenskur, lkfesf, íslenskra
+
+dómstóll, nkfe, dómstóla
+
+að, aþ, Að
+
+teknur, lheþsf, teknu
+
+tillit, nheþ, tilliti
+
+til, ae, til
+
+það, fphee, þess
+
+og, c, og
+
+það, fphee, þess
+
+að, c, að
+
+fyrir, aa, fyrir
+
+liggja, sfg3en, liggur
+
+að, aþ, að
+
+samtök, nhfþ, samtökum
+
+aðili, nkfe, aðila
+
+vinnumarkaður, nkeeg, vinnumarkaðarins
+
+taka, sfm3eþ, tókst
+
+ekki, aa, ekki
+
+að, cn, að
+
+semja, sng, semja
+
+um, ao, um
+
+útfærsla, nveo, útfærslu
+
+á, aþ, á
+
+efni, nheþ, efni
+
+rammasamningur, nkeeg, rammasamningsins
+
+þykja, sfg3eþ, þótti
+
+réttur, lhensf, rétt
+
+að, cn, að
+
+fara, sng, fara
+
+varlega, aa, varlega
+
+í, ao, í
+
+að, cn, að
+
+kveða, sng, kveða
+
+á, aa, á
+
+um, ao, um
+
+frekur, lvfovm, frekari
+
+takmörkun, nvfo, takmarkanir
+
+á, ao, á
+
+tímabundinn, lvfosf, tímabundnar
+
+ráðning, nvee, ráðningar
+
+en, c, en
+
+sá, favfn, þær
+
+sem, ct, sem
+
+gilda, ssg, gilt
+
+hafa, sfg3fn, hafa
+
+á, aþ, á
+
+hinn, fahfþ, hinum
+
+opinber, lkeþvf, opinbera
+
+vinnumarkaður, nkeþ, vinnumarkaði
+
+þar, aa, Þar
+
+taka, snm, takast
+
+m.a., as, m.a.
+
+á, ao, á
+
+sjónarmið, nheo, sjónarmið
+
+um, ao, um
+
+verndun, nveo, verndun
+
+sá, fakee, þess
+
+sveigjanleiki, nkee, sveigjanleika
+
+sem, ct, sem
+
+telja, sþgken, talinn
+
+vera, sfg3en, er
+
+einkenni, nhfe, einkenna
+
+íslenskur, lkeosf, íslenskan
+
+vinnumarkaður, nkeo, vinnumarkað
+
+og, c, og
+
+sjónarmið, nhfn, sjónarmið
+
+um, ao, um
+
+aukinn, lveosf, aukna
+
+vernd, nveo, vernd
+
+launafólk, nhee, launafólks
+
+þá, aa, Þá
+
+koma, sfg3fn, koma
+
+einnig, aa, einnig
+
+til, ae, til
+
+skjal, nhfeg, skjalanna
+
+vangaveltur, nvfn, vangaveltur
+
+um, ao, um
+
+hversu, aa, hversu
+
+stór, lheosf, stórt
+
+svigrúm, nheo, svigrúm
+
+aðili, nkfn, aðilar
+
+vinnumarkaður, nkeeg, vinnumarkaðarins
+
+skulu, sfg3fn, skulu
+
+hafa, sng, hafa
+
+til, ae, til
+
+að, cn, að
+
+semja, sng, semja
+
+um, ao, um
+
+réttindi, nhfo, réttindi
+
+og, c, og
+
+skylda, nvfo, skyldur
+
+á, aþ, á
+
+vinnumarkaður, nkeþ, vinnumarkaði
+
+við, ao, við
+
+gerð, nveo, gerð
+
+kjarasamningur, nkfe, kjarasamninga
+
+með, aþ, með
+
+annar, fohfþ, öðrum
+
+orð, nhfþ, orðum
+
+hvar, aa, hvar
+
+eiga, svg3en, eigi
+
+að, cn, að
+
+draga, sng, draga
+
+mark, nhfog, mörkin
+
+milli, ae, milli
+
+sá, fahee, þess
+
+sem, ct, sem
+
+ákveða, sng, ákveða
+
+skulu, svg3en, skuli
+
+með, aþ, með
+
+lag, nhfþ, lögum
+
+og, c, og
+
+sá, fahee, þess
+
+sem, ct, sem
+
+ákveða, sng, ákveða
+
+skulu, svg3en, skuli
+
+með, aþ, með
+
+kjarasamningur, nkfþ, kjarasamningum
+
+á, aþ, á
+
+innlendur, lkeþsf, innlendum
+
+vinnumarkaður, nkeþ, vinnumarkaði
+
+þykja, sfg3en, Þykir
+
+eðlilegur, lhenvm, eðlilegra
+
+að, c, að
+
+kanna, sþghen, kannað
+
+verða, svg3en, verði
+
+í, aþ, í
+
+samráð, nheþ, samráði
+
+við, ao, við
+
+samtök, nhfo, samtök
+
+aðili, nkee, aðila
+
+vinnumarkaður, nkeeg, vinnumarkaðarins
+
+hvernig, aa, hvernig
+
+tímabundinn, lhfþsf, tímabundnum
+
+ráðningarsamningur, nkfþ, ráðningarsamningum
+
+vera, sfg3en, er
+
+raunverulega, aa, raunverulega
+
+hátta, sþghen, háttað
+
+á, aþ, á
+
+íslenskur, lkeþsf, íslenskum
+
+vinnumarkaður, nkeþ, vinnumarkaði
+
+áður, aa, áður
+
+en, c, en
+
+frekur, lvfnvm, frekari
+
+regla, nvfn, reglur
+
+vera, sfg3fn, eru
+
+setja, sþgvfn, settar
+
+virðulegur, lkenvf, Virðulegi
+
+forseti, nken, forseti
+
+ég, fp1en, Ég
+
+munu, sfg1en, mun
+
+beita, sng, beita
+
+ég, fp1eþ, mér
+
+fyrir, ao, fyrir
+
+skipun, nveo, skipun
+
+samstarfshópur, nkee, samstarfshóps
+
+þar, aa, þar
+
+sem, c, sem
+
+fara, sþghen, farið
+
+verða, sfg3en, verður
+
+yfir, ao, yfir
+
+mál, nhfog, málin
+
+á, aþ, á
+
+nærri, lhfþve, næstu
+
+þrír, tfhfþ, þremur
+
+ár, nhfþ, árum
+
+í, aþ, í
+
+samvinna, nveþ, samvinnu
+
+við, ao, við
+
+vinnumálastofnun, nveo-s, Vinnumálastofnun
+
+gera, sþghen, Gert
+
+vera, sfg3en, er
+
+ráð, nhen, ráð
+
+fyrir, aþ, fyrir
+
+að, c, að
+
+sá, faken, sá
+
+samstarfshópur, nken, samstarfshópur
+
+leggja, svg3en, leggi
+
+fram, aa, fram
+
+skýrsla, nveo, skýrslu
+
+þar, aa, þar
+
+sem, c, sem
+
+afstaða, nven, afstaða
+
+verða, svg3en, verði
+
+taka, sþgven, tekin
+
+til, aa, til
+
+hvort, c, hvort
+
+nauðsyn, nven, nauðsyn
+
+þykja, svg3en, þyki
+
+að, cn, að
+
+hafa, sng, hafa
+
+strangur, lvfovm, strangari
+
+takmörkun, nvfn, takmarkanir
+
+í, aþ, í
+
+lag, nhfþ, lögum
+
+en, c, en
+
+sá, favfn, þær
+
+sem, ct, sem
+
+hér, aa, hér
+
+vera, sfg3fn, eru
+
+leggja, sþgvfn, lagðar
+
+til, aa, til
+
+hæstv, nken-s, Hæstv
+
+forseti, nken, forseti
+
+að, aþ, Að
+
+lokinn, lveþsf, lokinni
+
+1., ta, 1.
+
+umr., sbg2en, umr.
+
+leggja, sfg1en, legg
+
+ég, fp1en, ég
+
+til, ae, til
+
+að, c, að
+
+framvegis, aa, frv.
+
+verða, svg3en, verði
+
+vísa, sþghen, vísað
+
+til, aa, til
+
+hv, nhen, hv
+
+félmn, nkeog, félmn
+
+og, c, og
+
+2., ta, 2.
+
+umr., sbg2en, umr.
+
