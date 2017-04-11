@@ -6,6 +6,7 @@
 def split_text(filename): 
     f = open(filename, 'r', encoding='utf-8')
     s = f.read() 
+    f.close()
     a = s.split()
     b = []
     sent = []
