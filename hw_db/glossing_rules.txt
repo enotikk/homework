@@ -1,0 +1,38 @@
+﻿1PL — first person plural
+1SG — first person singular
+2PL — second person plural
+2SG — second person singular
+3PL — third person plural
+3SG — third person singular
+ACC — accusative
+ADJ — adjective
+ADV — adverb
+AUX — auxiliary 
+COMP — complementizer
+CONJ — conjunction
+CONN — connective
+DAT — dative
+DEM — demonstrative pronoun
+IMP — imperative
+INDEF — indefinite pronoun
+INSTR — instrumental
+LOC — locative
+N — noun
+NEG — negative
+NOM — nominative
+NUM — cardinal
+P — preposition (postposition)
+PART — particle
+PERS — personal
+PL — plural
+POSS — possessive pronoun
+PRON — pronoun
+PRS — present
+PRV — preverb
+PST — past
+PTCP — participle
+Q — question word
+QUOT — quotative
+REL — relative pronoun
+SG — singular
+V — verb
