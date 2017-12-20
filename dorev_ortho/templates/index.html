@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+	 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title>DorevRus</title>
+	<style>
+		.row {
+			margin-bottom: 100px;
+		}
+	</style>
+</head>
+<body>
+	
+	<div class="row header-row">
+		<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3"></div>
+		<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6"><h1>Портал о дореволюционной орфографии</h1></div>
+		<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3"></div>
+	</div>
+	<div class="row">
+		<div class="col-xs-2 col-sm-2 col-md-2 col-lg-2"></div>
+		<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+			<h2>Перевести в дореволюционную орфографию</h2>
+			<form action="translate">
+				<input type="text" name="word" placeholder="Слово">
+				<input type="submit" value="Перевести" class="submit">
+			</form>
+		</div>
+		<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+			<h2>Погода в Скопье</h2>
+			<p class="description">славянская письменность была разработана на основе македонских диалектов</p>
+			{% for key in weather %}
+				<p>{{key}}: {{weather[key]}}</p>
+			{% endfor %}
+		</div>
+		<div class="col-xs-1 col-sm-1 col-md-1 col-lg-1"></div>
+	</div>
+	<div class="row">
+		<div class="col-xs-2 col-sm-2 col-md-2 col-lg-2"></div>
+		<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+			<a href="/news"><button>Новости на древнерусском</button></a>
+		</div>
+		<div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+			<a href="/test"><button>Тест на знание древнерусского</button></a>
+		</div>
+		<div class="col-xs-1 col-sm-1 col-md-1 col-lg-1"></div>
+	</div>
+
+</body>
+</html>
